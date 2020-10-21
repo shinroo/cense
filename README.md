@@ -12,6 +12,33 @@ curl is required to run this tool.
 
 You can use `cense --list` or `cense -l` to see all licenses available.
 
+## Available licenses
+
+- mit
+- zlib
+- cc_by_nc_sa
+- wtfpl
+- cc_by_sa
+- cc_by
+- cc0
+- isc
+- cc_by_nc
+- cddl
+- gpl2
+- mpl
+- bsd2
+- cc_by_nc_nd
+- unlicense
+- epl
+- cc_by_nd
+- apache
+- bsd3
+- gpl3
+- lgpl
+- x11
+- agpl3
+
+
 ## Contributing
 
 If you have another license, open a pr with its link.
